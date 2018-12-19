@@ -1,1 +1,1 @@
-package grpctemplates
+package rpctemplates
